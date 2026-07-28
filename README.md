@@ -37,8 +37,14 @@ Computer Science student at **Al Akhawayn University**, software engineer, and C
 - **The Hunt V2** — OSINT CTF platform operated for 560 participants
 - **LPORT** — Real-time campus social platform built with Next.js and WebSockets
 
-## GitHub activity
+## Current focus
+
+```text
+DFIR       Memory forensics and Volatility
+BUILDING   Backend, web, and mobile systems
+CTFs       OSINT, forensics, and network challenges
+```
 
 <p align="center">
-  <img width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyssalone&theme=github_dark" alt="Zyssalone GitHub activity" />
+  <a href="https://github.com/Zyssalone?tab=repositories"><b>Explore my repositories →</b></a>
 </p>

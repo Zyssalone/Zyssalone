@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:1E3A5F,100:6D28D9&text=Nizar%20El%20Ghanbaz&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20DFIR&descAlignY=63&descSize=18&animation=fadeIn" alt="Nizar El Ghanbaz" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:1E3A5F,100:6D28D9&text=Nizar%20El%20Ghanbaz&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20DFIR&descAlignY=63&descSize=18&animation=fadeIn" alt="Zyssalone" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nizar-el-ghanbaz-zyssalone">

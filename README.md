@@ -7,7 +7,7 @@ Computer Science student at **Al Akhawayn University**, software engineer, and C
 - Focused on **software engineering, cybersecurity, and digital forensics**
 - Building web, mobile, and security-focused projects
 - Former President of **WhiteOps Club**
-- Interested in **DFIR, OSINT, network security, and backend systems**
+- Interested in **DFIR, RE, network security, and backend systems**
 
 ## Stack
 

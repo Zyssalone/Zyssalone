@@ -32,7 +32,7 @@ Computer Science student at **Al Akhawayn University**, software engineer, and C
 ```text
 DFIR       Memory forensics and Volatility
 BUILDING   Backend, web, and mobile systems
-CTFs       OSINT, forensics, and RE challenges
+CTFs       Forensics, IR and RE challenges
 ```
 
 <p align="center">
